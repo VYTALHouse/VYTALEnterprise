@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-08-21",
+  "owner": "ChaunDon5000",
+  "umbrella": "VYTALEnterprise",
+  "repositories": [
+    {"name":"VYTALEnterprise","url":"https://github.com/ChaunDon5000/VYTALEnterprise","domain":"enterprise","stage":"active","public":true},
+    {"name":"VYTALHouse","url":"https://github.com/ChaunDon5000/VYTALHouse","domain":"health/house-operations","stage":"pre-development","public":true,"fork":true},
+    {"name":"VYTALHouse_com","url":"https://github.com/ChaunDon5000/VYTALHouse_com","domain":"health/house-public-web","stage":"planned","public":true},
+    {"name":"VYTALPouches","url":"https://github.com/ChaunDon5000/VYTALPouches","domain":"products/pouches","stage":"r-and-d","public":true},
+    {"name":"VYTALBranding","url":"https://github.com/ChaunDon5000/VYTALBranding","domain":"brand","stage":"system-build","public":true},
+    {"name":"VYTALOperations","url":"https://github.com/ChaunDon5000/VYTALOperations","domain":"operations","stage":"system-build","public":true},
+    {"name":"VYTALCareers","url":"https://github.com/ChaunDon5000/VYTALCareers","domain":"people/careers","stage":"planned","public":true},
+    {"name":"VYTALAI","url":"https://github.com/ChaunDon5000/VYTALAI","domain":"ai","stage":"planned","public":true},
+    {"name":"VYTALCRM","url":"https://github.com/ChaunDon5000/VYTALCRM","domain":"crm","stage":"planned","public":true},
+    {"name":"VYTALApp","url":"https://github.com/ChaunDon5000/VYTALApp","domain":"applications/member-operator","stage":"planned","public":true},
+    {"name":"VYTALIP","url":"https://github.com/ChaunDon5000/VYTALIP","domain":"intellectual-property","stage":"diligence","public":true},
+    {"name":"VYTALPLLC","url":"https://github.com/ChaunDon5000/VYTALPLLC","domain":"clinical-entity","stage":"counsel-review-required","public":true},
+    {"name":"VYTALMSO","url":"https://github.com/ChaunDon5000/VYTALMSO","domain":"management-services","stage":"counsel-review-required","public":true},
+    {"name":"FCGHoldings","url":"https://github.com/ChaunDon5000/FCGHoldings","domain":"holding-governance","stage":"diligence","public":true}
+  ],
+  "excludedVentures": [
+    {"name":"FREEDĒM","reason":"Separate venture; no VYTAL brand, health, compliance, or repository inheritance."}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "preparedAt": "2026-08-21",
+  "verifiedAt": "2026-08-21",
+  "rootRepository": "VYTALEnterprise",
+  "rootRef": "main",
+  "publicationStatus": "pushed-and-verified",
+  "rootRepositoryUrl": "https://github.com/ChaunDon5000/VYTALEnterprise",
+  "domainCommits": {
+    "VYTALOperations": "40b40aaca3286b333b3fa5641872f4d72aace560",
+    "VYTALCareers": "220ae3ed440d58d6548e09725bf7e94ae95da31d",
+    "VYTALBranding": "104517ed5023853e99da1c5ba1187b455973a548",
+    "FCGHoldings": "9aa99deedab8fca0b5fa00c9b0a626eb7d089798",
+    "VYTALAI": "9823150e3bbc66da2e38fb1c34849f99259fbbbb",
+    "VYTALCRM": "b6173412d42e616ed8dd5a4a0406fec628a5243b",
+    "VYTALPouches": "9d8e7b09f373e9d315e451030685fb56a03cb5ae",
+    "VYTALHouse_com": "c01a443874fdbdcf9124093303e16e4c2129786a",
+    "VYTALApp": "5348783dbc9412c48eac92c6c5a8d9bc15bb6bc5",
+    "VYTALIP": "6e989964d1c09ec0840d81e03b4a1e6c8acb19e5",
+    "VYTALPLLC": "6cab3a1a0498d58b29d2018c023660fe18972a14",
+    "VYTALMSO": "2ce7b040030221593864d2276f977b251d774497",
+    "VYTALHouse": "13a45f760f27ac49940780f1b65fc37bcddd3b79"
+  }
+}

@@ -1,0 +1,26 @@
+name: Federation integrity
+
+on:
+  push:
+    paths:
+      - "registry/**"
+      - "scripts/verify-federation.mjs"
+      - ".github/workflows/federation.yml"
+  pull_request:
+    paths:
+      - "registry/**"
+      - "scripts/verify-federation.mjs"
+      - ".github/workflows/federation.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run verify:federation
