@@ -29,19 +29,19 @@ delivery and risk boundaries; they are not a shared store for restricted data.
 
 | Domain | Repository |
 | --- | --- |
-| Flagship operating system | [VYTALHouse](https://github.com/ChaunDon5000/VYTALHouse) |
-| Public House website | [VYTALHouse_com](https://github.com/ChaunDon5000/VYTALHouse_com) |
-| Functional products | [VYTALPouches](https://github.com/ChaunDon5000/VYTALPouches) |
-| Brand system | [VYTALBranding](https://github.com/ChaunDon5000/VYTALBranding) |
-| Operations | [VYTALOperations](https://github.com/ChaunDon5000/VYTALOperations) |
-| Careers | [VYTALCareers](https://github.com/ChaunDon5000/VYTALCareers) |
-| AI orchestration | [VYTALAI](https://github.com/ChaunDon5000/VYTALAI) |
-| CRM architecture | [VYTALCRM](https://github.com/ChaunDon5000/VYTALCRM) |
-| Member/operator application | [VYTALApp](https://github.com/ChaunDon5000/VYTALApp) |
-| IP controls | [VYTALIP](https://github.com/ChaunDon5000/VYTALIP) |
-| Proposed clinical entity | [VYTALPLLC](https://github.com/ChaunDon5000/VYTALPLLC) |
-| Proposed management organization | [VYTALMSO](https://github.com/ChaunDon5000/VYTALMSO) |
-| Parent/holding governance | [FCGHoldings](https://github.com/ChaunDon5000/FCGHoldings) |
+| Flagship operating system | [VYTALHouse](https://github.com/VYTALHouse/VYTALHouse) |
+| Public House website | [VYTALHouse_com](https://github.com/VYTALHouse/VYTALHouse_com) |
+| Functional products | [VYTALPouches](https://github.com/VYTALHouse/VYTALPouches) |
+| Brand system | [VYTALBranding](https://github.com/VYTALHouse/VYTALBranding) |
+| Operations | [VYTALOperations](https://github.com/VYTALHouse/VYTALOperations) |
+| Careers | [VYTALCareers](https://github.com/VYTALHouse/VYTALCareers) |
+| AI orchestration | [VYTALAI](https://github.com/VYTALHouse/VYTALAI) |
+| CRM architecture | [VYTALCRM](https://github.com/VYTALHouse/VYTALCRM) |
+| Member/operator application | [VYTALApp](https://github.com/VYTALHouse/VYTALApp) |
+| IP controls | [VYTALIP](https://github.com/VYTALHouse/VYTALIP) |
+| Proposed clinical entity | [VYTALPLLC](https://github.com/VYTALHouse/VYTALPLLC) |
+| Proposed management organization | [VYTALMSO](https://github.com/VYTALHouse/VYTALMSO) |
+| Parent/holding governance | [FCGHoldings](https://github.com/VYTALHouse/FCGHoldings) |
 
 FREEDĒM remains a separate venture and does not inherit VYTAL brand,
 healthcare, data or repository governance.
