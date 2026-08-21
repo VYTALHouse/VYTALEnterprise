@@ -19,7 +19,7 @@ for (const name of expected) {
   if (!names.includes(name)) throw new Error(`Missing repository: ${name}`);
 }
 for (const repo of registry.repositories) {
-  if (!repo.url.startsWith("https://github.com/ChaunDon5000/")) {
+  if (!repo.url.startsWith("https://github.com/VYTALHouse/")) {
     throw new Error(`Unexpected repository owner: ${repo.name}`);
   }
 }
